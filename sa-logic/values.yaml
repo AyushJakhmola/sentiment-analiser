@@ -6,7 +6,7 @@ image:
   repository: ayushjakhmola001/sentiment-analysis-logic
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "12"
+  tag: ""
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
